@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Simone Mazzero"
+subtitle: "Un test alla volta"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Questo sito è stato generato grazie a GitHub Pages. E se ci sono riuscito io, non ho dubbi che sarà semplice anche per te.
